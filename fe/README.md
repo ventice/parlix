@@ -1,0 +1,1 @@
+Frontend logic implementing interaction with the user and presentation layer.
